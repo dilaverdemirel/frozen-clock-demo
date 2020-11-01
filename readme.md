@@ -1,4 +1,4 @@
-##It demonstrate Spring Bean Validation customization for date based constraints
+## It demonstrate Spring Bean Validation customization for date based constraints
 
 If you want to test your api that has a @PastOrPresent constraint for how it is work at future, this demo application will help you.
 
