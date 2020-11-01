@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: frozen-clock-demo-app
+    version: 1.0.0-SNAPSHOT
+
+server:
+  port: 6001
